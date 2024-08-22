@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Mix Pina Colada",
+    "price": 57000,
+    "stock": 12
+  },
+  {
+    "name": "Oil - Shortening - All - Purpose",
+    "price": 89000,
+    "stock": 84
+  },
+  {
+    "name": "Pepsi - Diet, 355 Ml",
+    "price": 51000,
+    "stock": 38
+  },
+  {
+    "name": "Table Cloth 62x114 Colour",
+    "price": 60000,
+    "stock": 97
+  },
+  {
+    "name": "Ketchup - Tomato",
+    "price": 36000,
+    "stock": 61
+  },
+  {
+    "name": "Salt - Kosher",
+    "price": 87000,
+    "stock": 2
+  },
+  {
+    "name": "Yukon Jack",
+    "price": 54000,
+    "stock": 53
+  },
+  {
+    "name": "Tomatoes - Cherry",
+    "price": 70000,
+    "stock": 35
+  },
+  {
+    "name": "Sobe - Lizard Fuel",
+    "price": 23000,
+    "stock": 6
+  },
+  {
+    "name": "Crab - Claws, Snow 16 - 24",
+    "price": 7000,
+    "stock": 20
+  },
+  {
+    "name": "Puree - Blackcurrant",
+    "price": 78000,
+    "stock": 80
+  },
+  {
+    "name": "Pork Loin Bine - In Frenched",
+    "price": 16000,
+    "stock": 82
+  },
+  {
+    "name": "Straws - Cocktale",
+    "price": 100000,
+    "stock": 36
+  },
+  {
+    "name": "Rice - Brown",
+    "price": 58000,
+    "stock": 100
+  },
+  {
+    "name": "Longan",
+    "price": 42000,
+    "stock": 89
+  },
+  {
+    "name": "Container - Clear 32 Oz",
+    "price": 9000,
+    "stock": 61
+  },
+  {
+    "name": "Wine - Stoneliegh Sauvignon",
+    "price": 10000,
+    "stock": 60
+  },
+  {
+    "name": "Wine - Niagara Peninsula Vqa",
+    "price": 69000,
+    "stock": 46
+  },
+  {
+    "name": "Puree - Passion Fruit",
+    "price": 90000,
+    "stock": 12
+  },
+  {
+    "name": "Crab - Soft Shell",
+    "price": 79000,
+    "stock": 63
+  },
+  {
+    "name": "Pastry - Key Limepoppy Seed Tea",
+    "price": 54000,
+    "stock": 49
+  },
+  {
+    "name": "Eggroll",
+    "price": 38000,
+    "stock": 6
+  },
+  {
+    "name": "Cookie Choc",
+    "price": 92000,
+    "stock": 35
+  },
+  {
+    "name": "Lemonade - Kiwi, 591 Ml",
+    "price": 83000,
+    "stock": 40
+  },
+  {
+    "name": "Tomatoes Tear Drop Yellow",
+    "price": 11000,
+    "stock": 73
+  },
+  {
+    "name": "Sauce - Salsa",
+    "price": 66000,
+    "stock": 68
+  },
+  {
+    "name": "Tomato - Plum With Basil",
+    "price": 65000,
+    "stock": 47
+  },
+  {
+    "name": "Toamtoes 6x7 Select",
+    "price": 38000,
+    "stock": 58
+  },
+  {
+    "name": "Bagel - Ched Chs Presliced",
+    "price": 68000,
+    "stock": 80
+  },
+  {
+    "name": "Allspice - Jamaican",
+    "price": 60000,
+    "stock": 9
+  }
+]

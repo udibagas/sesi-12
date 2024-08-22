@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Joelynn Demougeot",
+    "email": "jdemougeot0@skyrock.com",
+    "gender": "M",
+    "phone": "579-211-3980",
+    "address": "2165 Beilfuss Hill",
+    "role": "customer",
+    "password": "$2a$04$.MMbIZlCd7s8.pQ8Vrm0TuM.arnQc43Yy4LhlyGBDnmTAE19Tp5Ku"
+  },
+  {
+    "name": "Gothart de Glanville",
+    "email": "gde1@eepurl.com",
+    "gender": "F",
+    "phone": "897-977-1063",
+    "address": "54945 Nancy Avenue",
+    "role": "customer",
+    "password": "$2a$04$R5SQeqjrJTOZcLWSFzOlKeMB/iZ92qXOEos5FOermkU8C/44j6H66"
+  },
+  {
+    "name": "Georgie Ivushkin",
+    "email": "givushkin2@nsw.gov.au",
+    "gender": "M",
+    "phone": "984-141-9098",
+    "address": "5642 Packers Junction",
+    "role": "customer",
+    "password": "$2a$04$egRDO64GHjZyc4oN6z2KiuS2JbWz98dQglpmvxrvfQLFcXJpuCohq"
+  },
+  {
+    "name": "Karisa Maddin",
+    "email": "kmaddin3@blogs.com",
+    "gender": "F",
+    "phone": "631-181-5940",
+    "address": "82941 Macpherson Point",
+    "role": "customer",
+    "password": "$2a$04$yUPBRkalzIATKCjeDY97P.yxqIKq1nEnLKdLbAIxB7ITMtnczT3pG"
+  },
+  {
+    "name": "Jody Panchen",
+    "email": "jpanchen4@addtoany.com",
+    "gender": "F",
+    "phone": "113-392-7375",
+    "address": "68 Harbort Alley",
+    "role": "customer",
+    "password": "$2a$04$s6itnaa7TTlb4HcNs2w89.ZQ8GmYD.v1Ns/ZNpj250CmkJ/.JYMya"
+  }
+]

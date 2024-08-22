@@ -1,0 +1,162 @@
+[
+  {
+    "date": "2023-09-17",
+    "CustomerId": 4,
+    "ProductId": 18,
+    "qty": 19,
+    "totalAmount": 14000,
+    "price": 91000
+  },
+  {
+    "date": "2024-07-02",
+    "CustomerId": 5,
+    "ProductId": 4,
+    "qty": 5,
+    "totalAmount": 19000,
+    "price": 95000
+  },
+  {
+    "date": "2023-12-29",
+    "CustomerId": 5,
+    "ProductId": 30,
+    "qty": 7,
+    "totalAmount": 11000,
+    "price": 63000
+  },
+  {
+    "date": "2024-06-01",
+    "CustomerId": 5,
+    "ProductId": 3,
+    "qty": 19,
+    "totalAmount": 11000,
+    "price": 100000
+  },
+  {
+    "date": "2024-04-03",
+    "CustomerId": 5,
+    "ProductId": 14,
+    "qty": 1,
+    "totalAmount": 9000,
+    "price": 16000
+  },
+  {
+    "date": "2023-11-17",
+    "CustomerId": 3,
+    "ProductId": 6,
+    "qty": 12,
+    "totalAmount": 5000,
+    "price": 100000
+  },
+  {
+    "date": "2024-04-08",
+    "CustomerId": 1,
+    "ProductId": 9,
+    "qty": 7,
+    "totalAmount": 8000,
+    "price": 70000
+  },
+  {
+    "date": "2023-11-25",
+    "CustomerId": 1,
+    "ProductId": 7,
+    "qty": 17,
+    "totalAmount": 13000,
+    "price": 93000
+  },
+  {
+    "date": "2023-08-29",
+    "CustomerId": 2,
+    "ProductId": 25,
+    "qty": 12,
+    "totalAmount": 19000,
+    "price": 96000
+  },
+  {
+    "date": "2023-09-14",
+    "CustomerId": 3,
+    "ProductId": 20,
+    "qty": 12,
+    "totalAmount": 17000,
+    "price": 32000
+  },
+  {
+    "date": "2024-02-05",
+    "CustomerId": 4,
+    "ProductId": 5,
+    "qty": 6,
+    "totalAmount": 19000,
+    "price": 16000
+  },
+  {
+    "date": "2024-04-26",
+    "CustomerId": 1,
+    "ProductId": 5,
+    "qty": 6,
+    "totalAmount": 16000,
+    "price": 65000
+  },
+  {
+    "date": "2023-11-26",
+    "CustomerId": 4,
+    "ProductId": 27,
+    "qty": 18,
+    "totalAmount": 8000,
+    "price": 49000
+  },
+  {
+    "date": "2024-05-30",
+    "CustomerId": 5,
+    "ProductId": 29,
+    "qty": 12,
+    "totalAmount": 15000,
+    "price": 96000
+  },
+  {
+    "date": "2024-08-12",
+    "CustomerId": 5,
+    "ProductId": 5,
+    "qty": 2,
+    "totalAmount": 8000,
+    "price": 20000
+  },
+  {
+    "date": "2023-10-19",
+    "CustomerId": 4,
+    "ProductId": 10,
+    "qty": 11,
+    "totalAmount": 8000,
+    "price": 49000
+  },
+  {
+    "date": "2023-09-30",
+    "CustomerId": 5,
+    "ProductId": 2,
+    "qty": 7,
+    "totalAmount": 8000,
+    "price": 8000
+  },
+  {
+    "date": "2023-09-18",
+    "CustomerId": 1,
+    "ProductId": 8,
+    "qty": 15,
+    "totalAmount": 5000,
+    "price": 41000
+  },
+  {
+    "date": "2023-09-28",
+    "CustomerId": 5,
+    "ProductId": 13,
+    "qty": 7,
+    "totalAmount": 20000,
+    "price": 27000
+  },
+  {
+    "date": "2024-05-08",
+    "CustomerId": 4,
+    "ProductId": 27,
+    "qty": 17,
+    "totalAmount": 5000,
+    "price": 12000
+  }
+]
