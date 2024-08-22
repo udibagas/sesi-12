@@ -1,0 +1,6 @@
+- schema
+- create database
+- create table
+- insert dummy data
+- create app
+- install package
