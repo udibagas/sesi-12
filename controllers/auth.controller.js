@@ -41,7 +41,7 @@ exports.login = async (req, res, next) => {
       role: user.role,
     };
 
-    const token = sign(payload, process.env.JWT_SECRET);
+    const token = sign(payload, process.env.JWT_SECRET, { expiresIn: "1h" });
     res.status(200).json({ token });
   } catch (error) {
     next(error);
